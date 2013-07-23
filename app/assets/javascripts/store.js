@@ -1,3 +1,7 @@
+DS.RESTAdapter.reopen({
+  namespace: "api/v1"
+})
+
 EmberIntro.Store = DS.Store.extend({
-  revision: 11
-});
+  revision: 12
+})
