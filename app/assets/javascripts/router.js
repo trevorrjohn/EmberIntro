@@ -1,0 +1,3 @@
+EmberIntro.Router.map(function() {
+
+});
